@@ -1,107 +1,125 @@
+# `arcaenux` — Developer Profile
+
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Joseph Afful">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:160509,100:080808&height=150&section=header&text=ARCAENUX.&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=48&desc=THINK%20DEEP.%20BUILD%20BOLD.%20UNDERSTAND%20MORE.&descSize=13&descColor=FF2438&descAlignY=76" width="100%" />
 
-<br>
+<a href="https://github.com/arcaenux">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=FF2438&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%40+KNUST;Exploring+Software+Engineering;Learning+Algorithms+%26+Data+Structures;Building+things+that+solve+real+problems;Understanding+technology%2C+one+idea+at+a+time." alt="Typing animation" />
+</a>
 
-<a href="https://github.com/astrolabscig"><img src="https://img.shields.io/badge/GITHUB-E5484D?style=for-the-badge&logo=github&logoColor=FFFFFF"></a> <a href="https://x.com/astrolabscig"><img src="https://img.shields.io/badge/X-0B0B0C?style=for-the-badge&logo=x&logoColor=FFFFFF"></a> <a href="https://www.youtube.com/@axoncron"><img src="https://img.shields.io/badge/YOUTUBE-0B0B0C?style=for-the-badge&logo=youtube&logoColor=E5484D"></a> <img src="https://komarev.com/ghpvc/?username=astrolabscig&style=for-the-badge&color=E5484D&label=VIEWS">
+<br/>
 
-<br><br>
-
-<img src="./assets/boot.svg" width="100%" alt="terminal">
-
-<br>
-
-**I build software to understand how systems behave.**
+[![GitHub](https://img.shields.io/badge/GitHub-arcaenux-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arcaenux)
+[![Profile Views](https://komarev.com/ghpvc/?username=arcaenux&style=for-the-badge&color=FF2438&label=PROFILE+VIEWS)](https://github.com/arcaenux)
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="">
+---
+
+## `01 / WHO AM I?`
+
+Hey, I'm **Arcaenux**.
+
+I'm a Computer Science student at **Kwame Nkrumah University of Science and Technology (KNUST)**, interested in understanding how technology works beneath the surface and using that knowledge to build useful things.
+
+I enjoy exploring the intersection of computer science, software engineering, algorithms, and artificial intelligence.
+
+I believe in learning beyond the classroom: experimenting, breaking things, solving problems, and turning ideas into working systems.
+
+```python
+class Arcaenux:
+    def __init__(self):
+        self.role = "Computer Science Student"
+        self.university = "KNUST"
+        self.interests = [
+            "Software Engineering",
+            "Algorithms & Data Structures",
+            "Artificial Intelligence",
+            "Backend Development",
+            "Computer Science"
+        ]
+        self.mindset = "Learn. Build. Understand. Repeat."
+
+    def current_goal(self):
+        return "Turning knowledge into things that work."
+
+
+me = Arcaenux()
+```
+
+## `02 / WHAT I'M EXPLORING`
+
+| Field | What interests me |
+|---|---|
+| Software Engineering | Building reliable, maintainable software |
+| Algorithms | Understanding how problems can be solved efficiently |
+| Artificial Intelligence | Exploring intelligent systems and machine learning |
+| Backend Development | APIs, databases, architecture and server-side systems |
+| Computer Science | Understanding the principles behind modern technology |
+
+## `03 / MY TOOLBOX`
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,go,js,ts,nodejs,react,git,github,linux,vscode&theme=dark" />
+</p>
+
+<p align="center">
+<sub>Technologies I'm learning, exploring, or working with.</sub>
+</p>
+
+## `04 / GITHUB STATISTICS`
 
 <div align="center">
 
-<img src="./assets/layers.svg" width="100%" alt="stack by layer">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arcaenux&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF2438&icon_color=FF2438&text_color=FFFFFF&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arcaenux&theme=dark&hide_border=true&background=0D1117&ring=FF2438&fire=FF2438&currStreakLabel=FF2438" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcaenux&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF2438&text_color=FFFFFF" />
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="">
+## `05 / WHAT I'M BUILDING`
 
-## `> featured`
+I believe the best way to understand a concept is to build something with it.
 
-<table>
-<tr>
-<td width="50%"><a href="https://github.com/astrolabscig/kortex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=astrolabscig&repo=kortex&hide_border=true&bg_color=0B0B0C&title_color=E5484D&text_color=FFFFFF&icon_color=E5484D" width="100%"></a></td>
-<td width="50%"><a href="https://github.com/astrolabscig/promptopia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=astrolabscig&repo=promptopia&hide_border=true&bg_color=0B0B0C&title_color=E5484D&text_color=FFFFFF&icon_color=E5484D" width="100%"></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/astrolabscig/pdfplumber"><img src="https://github-readme-stats.vercel.app/api/pin/?username=astrolabscig&repo=pdfplumber&hide_border=true&bg_color=0B0B0C&title_color=E5484D&text_color=FFFFFF&icon_color=E5484D" width="100%"></a></td>
-<td width="50%"><a href="https://github.com/astrolabscig/portfolio1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=astrolabscig&repo=portfolio1&hide_border=true&bg_color=0B0B0C&title_color=E5484D&text_color=FFFFFF&icon_color=E5484D" width="100%"></a></td>
-</tr>
-</table>
+My GitHub is where I document experiments, projects, learning exercises, and ideas as they develop.
 
-<img src="./assets/divider.svg" width="100%" alt="">
+**Explore my repositories:**
 
-## `> telemetry`
+[![Explore Repositories](https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-FF2438?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arcaenux?tab=repositories)
+
+## `06 / THE CONTRIBUTION MATRIX`
 
 <div align="center">
 
-<img src="./assets/metrics-isometric.svg" width="100%" alt="isometric contribution calendar">
-
-<img src="./assets/metrics-languages.svg" width="49%" alt="languages">
-<img src="https://github-readme-stats.vercel.app/api?username=astrolabscig&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0B0B0C&title_color=E5484D&text_color=FFFFFF&icon_color=E5484D&rank_icon=github&custom_title=GITHUB%20TELEMETRY" width="49%">
-
-<img src="https://streak-stats.demolab.com?user=astrolabscig&theme=dark&hide_border=true&background=0B0B0C&ring=E5484D&fire=E5484D&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=8A8A8E" width="70%" alt="streak">
+<img src="https://raw.githubusercontent.com/arcaenux/arcaenux/output/github-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake" />
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="">
+## `07 / CONNECT`
 
-## `> live feed`
+I'm always interested in learning, collaborating, exchanging ideas, and building interesting things with other developers.
 
 <div align="center">
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/astrolabscig/astrolabscig/output/github-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/astrolabscig/astrolabscig/output/github-snake.svg">
-<img src="https://raw.githubusercontent.com/astrolabscig/astrolabscig/output/github-snake-dark.svg" width="100%" alt="contribution snake">
-</picture>
+<a href="https://github.com/arcaenux">
+<img src="https://img.shields.io/badge/GITHUB-ARCAENUX-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
-**Recent activity**
-
-<!--START_SECTION:activity-->
-
-1. 💪 Opened PR [#8](https://github.com/AnnumJnr/SteamProj/pull/8) in [AnnumJnr/SteamProj](https://github.com/AnnumJnr/SteamProj)
-2. 💪 Opened PR [#2](https://github.com/kweku461/Food-Delivery-And-Logistics-/pull/2) in [kweku461/Food-Delivery-And-Logistics-](https://github.com/kweku461/Food-Delivery-And-Logistics-)
-3. 💪 Opened PR [#4](https://github.com/kweku461/api-fundamentals/pull/4) in [kweku461/api-fundamentals](https://github.com/kweku461/api-fundamentals)
-4. 🎉 Merged PR [#1](https://github.com/kweku461/api-fundamentals/pull/1) in [kweku461/api-fundamentals](https://github.com/kweku461/api-fundamentals)
-
-<!--END_SECTION:activity-->
-
-<img src="./assets/divider.svg" width="100%" alt="">
-
-<details>
-<summary><b>OPEN THE LAB</b></summary>
-
-<br>
-
-* building useful software
-* understanding systems beneath frameworks
-* developer tooling & infrastructure
-* artificial intelligence
-* networking & security fundamentals
-* open-source contribution
-* experiments that answer interesting questions
-
-</details>
+---
 
 <div align="center">
 
-<br>
+### `THINK BEYOND THE OBVIOUS.`
 
-`LEARN → BUILD → BREAK → INVESTIGATE → REBUILD`
+**Learn it. Build it. Understand it.**
 
-**BUILD · INVESTIGATE · REPEAT**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:FF2438,100:080808&height=3&section=footer" width="100%" />
+
+<sub>© ARCAENUX · Built with curiosity and a little bit of obsession.</sub>
 
 </div>
